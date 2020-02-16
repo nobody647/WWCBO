@@ -5,6 +5,8 @@
     |__/|__/_/ /_/_____/_/ |_/     |__/|__/___/_____/_____/   \____/_____/_/  |_/____/____/  /_____/_____/   \____/ |___/_____/_/ |_|
   
   
+![image here](https://i.imgur.com/61K3uT2.png)
+
 In highschool, a question I found myself asking quite frequently was, "when will class be over?" Instead of learning how to read an analog clock and memorizing what time the bell rings like a sensible person, I decided to design, manufacture, and (attempt to) sell consumer electronics devices to answer the all important question of When Will Class Be Over, or WWCBO for short.
 
 The code here is C++ using Arduino libraries designed to run on an ATMEGA328P on a custom board I designed. If you want to check out the hardware side of this project, head on over to https://imgur.com/a/ui9bz0x
